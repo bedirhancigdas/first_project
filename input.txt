@@ -1,0 +1,9 @@
+Armstrong
+1700
+Emirp
+1700
+Armstrong
+7000
+Emirp
+463
+Exit
